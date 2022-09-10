@@ -15,6 +15,8 @@ An attempt at creating a restaurant website where people can view what dishes is
 
 **Client:** HTML, CSS, JavaScript
 
+## Live Server
+https://victor-okpukpan.github.io/Restaurant-site/
 
 
 ## Authors
